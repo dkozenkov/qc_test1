@@ -24,7 +24,7 @@ void MainWindow::on_pushButton_2_clicked()
 {
     counter++;
     ui->label->setText(std::to_string(counter).c_str());
-    LOG_INFO("aq");
+    LOG_INFO("aq1");
 }
 
 
